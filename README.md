@@ -176,7 +176,7 @@ Make sure your content is relevant, clean, and well-structured.
 
 ## 📄 License
 
-This repository is licensed under the [Creative Commons CC0 1.0 Universal](LICENSE) — public domain dedication.
+This repository is licensed under the GNU GENERAL PUBLIC LICENSE — public domain dedication.
 
 ---
 
